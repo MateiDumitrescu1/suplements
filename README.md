@@ -10,7 +10,7 @@ Omega 3
 L-Theanine  
 ### after main meal
 Omega 3  
-Bacopa Moneri
+Bacopa Moneri  
 Q10  
 Multivitamin  
 ### after evening snack
