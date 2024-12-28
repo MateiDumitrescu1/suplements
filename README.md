@@ -1,22 +1,22 @@
 # serving windows
 ### in the morning, after waking up
-NAC
-Vitamin B12
-L-Theanine
+NAC  
+Vitamin B12  
+L-Theanine  
 ### brekfast (snack)
-Omega 3
-L-Theanine
+Omega 3  
+L-Theanine  
 ### after main meal
-Omega 3
-Q10
-Multivitamin
+Omega 3  
+Q10  
+Multivitamin  
 ### after evening snack
-Omega 3
+Omega 3  
 ### before bed
-NAC
+NAC  
 L-Theanine
-Zinc & Magnesium
-# info
+Zinc & Magnesium  
+# info  
 NAC - empty stomach, first thing in the morning or after the last meal of the day
 L-Theanine - kicks in in 30-40 mins, peak effects after 60min. take any time
 Vitamin D3 - morning, but it's fine to take in the afternoon
