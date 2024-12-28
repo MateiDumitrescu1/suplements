@@ -11,6 +11,7 @@ L-Theanine
 ### after main meal
 Omega 3  
 Bacopa Moneri  
+Creatine 5g   
 Q10  
 Multivitamin  
 ### after evening snack
