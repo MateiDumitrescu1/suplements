@@ -17,8 +17,8 @@ Multivitamin
 Bacopa Moneri  
 Omega 3   
 ### before bed
-NAC 200mg
-L-Theanine  
+NAC 200mg  
+L-Theanine   
 Zinc & Magnesium  
 # info  
 NAC (4 weeks cycle on/off) - empty stomach, first thing in the morning or after the last meal of the day  
