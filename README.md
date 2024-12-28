@@ -14,8 +14,8 @@ Bacopa Moneri
 Q10  
 Multivitamin  
 ### after evening snack
-Bacopa Moneri
-Omega 3  
+Bacopa Moneri  
+Omega 3   
 ### before bed
 NAC 200mg
 L-Theanine  
