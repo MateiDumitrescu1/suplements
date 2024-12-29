@@ -12,7 +12,7 @@ L-Theanine
 Omega 3  
 Bacopa Moneri  
 Creatine 5g   
-Q10  
+Q10   
 Multivitamin  
 ### after evening snack
 Bacopa Moneri  
@@ -27,7 +27,8 @@ Rhodiola Rosea (4 weeks cycle on/off) - in the morning
 L-Theanine (constant) - kicks in in 30-40 mins, peak effects after 60min. take any time  
 Vitamin D3 (constant) - morning, but it's fine to take in the afternoon  
 Vitamin B12 (constant) - in the morning, since it can be energizing  
-Bacopa Moneri (constant) - take any time, splitting dose helps
+Bacopa Moneri (constant) - take any time, splitting dose helps  
+Q10 - might cause insomnia in some people, rare effect  
 # good sites to buy suplements
-ostrovit
-nowfoods
+ostrovit  
+nowfoods  
