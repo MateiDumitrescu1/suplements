@@ -1,9 +1,9 @@
 # serving windows
 ### in the morning, after waking up
-NAC 400mg  --- Rhodiola Rosea  
-Vitamin B12  
-L-Theanine  
-Vitamin D3  
+NAC 300mg  --- Rhodiola Rosea  
+Vitamin B12  1 capsule    
+L-Theanine  1 capsule   
+Vitamin D3  1 capsule  
 ### brekfast (snack)
 Bacopa Moneri????  
 Omega 3  
@@ -18,7 +18,7 @@ Multivitamin
 Bacopa Moneri  
 Omega 3   
 ### before bed
-NAC 200mg  
+NAC 300mg  
 L-Theanine   
 Zinc & Magnesium  
 # info  
@@ -28,3 +28,6 @@ L-Theanine (constant) - kicks in in 30-40 mins, peak effects after 60min. take a
 Vitamin D3 (constant) - morning, but it's fine to take in the afternoon  
 Vitamin B12 (constant) - in the morning, since it can be energizing  
 Bacopa Moneri (constant) - take any time, splitting dose helps
+# good sites to buy suplements
+ostrovit
+nowfoods
