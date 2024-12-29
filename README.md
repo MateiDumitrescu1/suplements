@@ -1,6 +1,6 @@
 # serving windows
 ### in the morning, after waking up
-NAC 300mg  --- Rhodiola Rosea  
+NAC 300mg (2 capsules)   
 Vitamin B12  1 capsule    
 L-Theanine  1 capsule   
 Vitamin D3  1 capsule  
