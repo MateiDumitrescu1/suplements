@@ -12,7 +12,7 @@ L-Theanine
 Omega 3  
 Bacopa Moneri  
 Creatine 5g   
-Q10   
+Q10 ???   
 Multivitamin  
 ### after evening snack
 Bacopa Moneri  
