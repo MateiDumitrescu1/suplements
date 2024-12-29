@@ -5,12 +5,11 @@ Vitamin B12  1 capsule
 L-Theanine  1 capsule   
 Vitamin D3  1 capsule  
 ### brekfast (snack)
-Bacopa Moneri????  
+Bacopa Moneri
 Omega 3  
 L-Theanine  
 ### after main meal
 Omega 3  
-Bacopa Moneri  
 Creatine 5g   
 Q10 ???   
 Multivitamin  
