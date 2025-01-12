@@ -1,6 +1,6 @@
 # serving windows
 ### in the morning, after waking up
-NAC 300mg --- RR 
+NAC 300mg --- RR   
 Vitamin B12  1 capsule    
 L-Theanine  1 capsule   
 Vitamin D3  1 capsule  
@@ -17,7 +17,7 @@ Multivitamin
 Bacopa Moneri  
 Omega 3   
 ### before bed
-NAC 300mg  --- RR
+NAC 300mg  --- RR   
 L-Theanine   
 Zinc & Magnesium  
 # info  
