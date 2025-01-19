@@ -1,4 +1,4 @@
-# serving windows
+# full
 ### in the morning, after waking up
 NAC 300mg --- RR   
 Vitamin B12  1 capsule    
@@ -20,6 +20,20 @@ Omega 3
 NAC 300mg  --- RR   
 L-Theanine   
 Zinc & Magnesium  
+
+# simplified  
+### after breakfast  
+Vitamin B12  
+Vitamin D3  
+Omega 3  
+### after main meal  
+Creatine 5g   
+Multivitamin  
+Omega 3 (2 capsule)  
+### before bed  
+ZMA
+
+
 # info  
 NAC (4 weeks cycle on/off) - empty stomach, first thing in the morning or after the last meal of the day  
 Rhodiola Rosea (RR) (4 weeks cycle on/off) - in the morning  
